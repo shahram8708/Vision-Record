@@ -13,34 +13,17 @@
 
 To get started with **Vision Record**, follow the instructions below.
 
-### Prerequisites
+### Download the Application
 
-Ensure you have Python installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
+You can download the pre-built executable of Vision Record from the following link:
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/shahram8708/vision-record.git
-cd vision-record
-```
-
-### Install Dependencies
-
-Create a virtual environment (optional but recommended) and install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
+[Download Vision Record](https://www.dropbox.com/scl/fi/d9cnvj14dx7zgdw9t1yt6/app.exe?rlkey=66p95p5a6gi62beb02lgk6mxw&st=9myihrqv&dl=0)
 
 ### Running the Application
 
-To run the application, execute the following command:
-
-```bash
-python screen_recorder.py
-```
-
-This will open the Vision Record window, where you can start and stop recordings.
+1. **Download the Executable**: Click the link above to download the `.exe` file.
+2. **Open the File**: Locate the downloaded file and double-click to run it.
+3. **Start and Stop Recording**: Use the buttons within the application window to start and stop your screen recordings.
 
 ## Usage
 
